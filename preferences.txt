@@ -1,0 +1,5 @@
+favorite_movie:interstellar
+favourite_TV_show:black_mirror
+favorite_food:pizza
+favorite_time_of_year:summer
+country_you_would_like_to_visit:Japan_and_America
