@@ -1,0 +1,4 @@
+Gulaliyev Kamil Eldar oglu
+age: 18
+pets: 0
+future salary: 9999999999
